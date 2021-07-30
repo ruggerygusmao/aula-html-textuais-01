@@ -1,0 +1,11 @@
+{
+  "name": "atividade01",
+  "version": "1.0.0",
+  "description": "\"Cancao de ninar\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruggery",
+  "license": "ISC"
+}
