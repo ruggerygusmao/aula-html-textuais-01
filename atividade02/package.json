@@ -1,0 +1,11 @@
+{
+  "name": "atividade02",
+  "version": "1.0.0",
+  "description": "\"Melhores filmes indicados ao oscar\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruggery",
+  "license": "ISC"
+}
